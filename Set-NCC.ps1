@@ -46,7 +46,7 @@ function New-LineObject {
 
     }
 
-    # ATRIBUTES  
+    # ATTRIBUTES  
     $LineObject.Line = $Line
     $LineObject.NewStruct = $NewStruct 
     $LineObject.ToolNumber = $ToolNumber 
